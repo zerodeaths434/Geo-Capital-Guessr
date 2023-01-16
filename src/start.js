@@ -47,7 +47,7 @@ const StartModal = () => {
         ""
       )}
       <div className="title-container">
-        <header className="title">Geo Trend Guessr</header>
+        <header className="title">Geo Capital Guessr</header>
         <p className="sub-title">
           A word will be given. You have to guess the country with the most
           number of google searches for that particular word in 3 attempts.
